@@ -2,7 +2,7 @@
 
 A model which recommends products matching the available products in the cart, according to the items placed previously in it.
 
-While building this model I am facing problems to find a appropriate dataset. And then I came up to a conclusion to create own dataset to solve this problem.
+While building this model I was facing problems to find a appropriate dataset. And then I came up to a conclusion to create own dataset to solve this problem.
 
 ```
 How the Dataset is arranged:
