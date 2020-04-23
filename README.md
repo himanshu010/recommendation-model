@@ -20,52 +20,49 @@ How the Dataset is arranged:
         
       ii. Now the next two integers represents the subcategory (as it can be in two subcategories).
         For '1' (food-item)
-        a.  vegetable
-        b.  fruit
-        c.  liquid
-        d.  packed
-        e.  chinese
-        f.  dairy
+        a.  vegetable :1
+        b.  fruit : 2
+        c.  liquid : 3
+        d.  packed: 4
+        e.  chinese: 5
+        f.  dairy : 6
         
         For '2' (medicine)
-        a.  fever
-        b.  family-planning
-        c.  for acute
-        d.  for chronic
-        e.  daily nutrients
-        f.  syrup
+        a.  fever : 1
+        b.  family-planning : 2
+        c.  for acute : 3
+        d.  for chronic : 4
+        e.  daily nutrients : 5
+        f.  syrup : 6
         
         For '3' (self-care)
-        a.  teeth
-        b.  hair
-        c.  face
-        d.  body
-        e.  grooming
-        f.  sanitizing
+        a.  teeth : 1
+        b.  hair : 2
+        c.  face : 3
+        d.  body : 4
+        e.  grooming : 5
+        f.  sanitizing : 6
         
         For '4' (electric)
-        a.  hair
-        b.  computer
-        c.  laptop
-        d.  mobile
-        e.  other
-        
+        a.  hair : 1
+        b.  computer : 2
+        c.  laptop : 3
+        d.  mobile : 4
+        e.  other : 5
+     
         For '5' (study)
-        a.  writing
-        b.  paper
-        c.  measuring
-        d.  tools
+        a.  writing : 1
+        b.  paper : 2
+        c.  measuring : 3
+        d.  tools : 4
         
         For '6' (cleaning)
-        a.  body
-        b.  surrounding
-        c.  electric
+        a.  body : 1
+        b.  surrounding : 2
+        c.  electric : 3
         
         For '7' (Decoration)
-        a.  self
-        b.  surrounding
+        a.  self : 1
+        b.  surrounding : 2
         
   ```
-  
-  
-  
